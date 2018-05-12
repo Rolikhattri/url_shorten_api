@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  given_link: MyString
+  short_link: MyString
+  slug: MyString
+  min_link: MyString
+
+two:
+  given_link: MyString
+  short_link: MyString
+  slug: MyString
+  min_link: MyString
